@@ -1,0 +1,6 @@
+﻿ID,SkillId,Level,SkillName,SkillType,Damage,CoolTime,NumProjectiles
+20101,100,1,파이어볼,FireBall,100,0.1,20,
+20102,100,2,파이어볼,FireBall,14,1,5,
+20103,100,3,파이어볼,FireBall,16,1,7,
+20104,100,4,파이어볼,FireBall,18,0.5,9,
+20105,100,5,파이어볼,FireBall,20,0.5,11,
